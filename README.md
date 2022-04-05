@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arsheqbal
+- 👀 I’m interested in Data Analysis,Machine Learning .
+- 🌱 I’m currently learning Natural Language Processing .
+- 💞️ I’m looking to working in an organisation where i can use my skills and advance in new technologies to benfit the organisation .
+- 📫 Reach me @arsheqbal2000@gmail.com .
